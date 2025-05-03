@@ -1,4 +1,14 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# QA Detox Challenge
+
+This is a small sample application with a single welcome screen login sample. We'll use this screen as the basis for the coding challenge in which you will be asked to provide Detox testing coverage over the sample feature.
+
+Detox has already been integrated into the project and a single initial test has been created to validate the configuration. Additional test scenarios will be discussed during the call as part of the challenge exercise.
+
+In preparation for the challenge call check out the repo to your local, install the dependencies and make sure you can build and run the app as well as the sample detox test for both iOS and Android.
+
+You are free to familiarize yourself with the app and it's basic functionality but we as that you **do not write any detox tests prior to the call.**
+
+Below are the basic React Native setup instructions. If you don't already have the detox dependencies for your local environment you can refer to the environment setup guide here: https://wix.github.io/Detox/docs/introduction/environment-setup 
 
 # Getting Started
 
