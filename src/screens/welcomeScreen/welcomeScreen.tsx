@@ -24,7 +24,7 @@ const WelcomeScreen = () => {
         style={styles.logo}
         resizeMode="contain"
       />
-      <Text style={styles.header} testID='welcome'>Welcome</Text>
+      <Text style={styles.header} testID="welcome">Welcome</Text>
       <Text style={styles.body}>This is a sample React Native login screen.</Text>
 
       <TextInput
